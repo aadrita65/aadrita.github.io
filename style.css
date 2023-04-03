@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    font-style: Sans-serif;
+    font-size: 60px;
+    color: #4D4D80;
+    
+}
+body {
+    background-color: #e6e6ff;
+}
+
+main{
+    
+
+}
+p {
+    display:flex;
+    background-color: yellow;
+    text-align: center;
+    font-style: Sans-serif;
+    font-size: 20px;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 400px;
+    margin: 50px;
+}
+
+p {
+    display:flex;
+    background-color: #B8B8CC;
+    text-align: center;
+    font-style: Sans-serif;
+    font-size: 20px;
+    justify-content: space-around;
+    flex-direction: column;
+}
