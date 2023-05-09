@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: #ffffff;
+    
+}
+body {
+    background-color: #82e3f9;
+    background-image: url("../images/orangebackground.jpg");
+    <img src="../images/orangebackground.jpg">
+    
+}
+p{
+    font-size: larger;
+}

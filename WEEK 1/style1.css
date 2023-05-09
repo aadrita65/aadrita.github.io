@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    font-style: Sans-serif;
+    font-size: 60px;
+    color: #e7f0db;
+    
+    
+}
+body {
+    background-color: #094103;
+}
+
+
+p {
+    display:flex;
+    background-color: rgb(161, 190, 164);
+    text-align: center;
+    font-style: Sans-serif;
+    font-size: 20px;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 400px;
+    margin: 50px;
+}
+

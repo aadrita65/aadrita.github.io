@@ -1,0 +1,51 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-color: blueviolet;
+  background-image: url("../images/nightsky.webp");
+    <img src="../images/nightsky.webp">
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+.text-wrapper{
+  position: relative;
+  font-size: 70px;
+
+}
+
+span{
+  font-family: 'Work Sans', sans-serif;
+  position: relative;
+  display: inline-block;
+  color: #ffffff;
+  letter-spacing: 10px;
+  animation: waveAnim 1s infinite;
+  animation-delay: calc(.1s * var(--i));
+
+}
+
+@keyframes waveAnim{
+  0%,40%,100% {
+    transform:translateY(0);
+  }
+  20%{
+    transform: translateY(-70px);
+  }
+}
+.wrapper{
+  max-width: 400px;
+  background: green;
+  height: 40px;
+  text-align: right;
+}
+
+.marquee {
+  background: red;
+  white-space: nowrap;
+  -webkit-animation: rightThenLeft 4s linear;
+}
