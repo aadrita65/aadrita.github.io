@@ -9,7 +9,7 @@ h1 {
 body{
     background-color: #82e3f9;
     background-image: url("../images/aurieaharvey.jpg");
-    <img src="../images/aurieaharvey.jpg">
+    <img src="../images/aurieaharvey.jpg"/>
 }
 p{
     font-size: larger;
