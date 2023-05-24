@@ -41,3 +41,8 @@ span{
 p{
   color: #ffffff;
 }
+button{
+  font-size: 20px;
+  color: rgb(112, 180, 239);
+  background-color: rgb(164, 33, 157);
+ }

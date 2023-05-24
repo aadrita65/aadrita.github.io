@@ -14,4 +14,13 @@ body{
 p{
     font-size: larger;
     font-family: Arial, Helvetica, sans-serif;
+    border: 10px solid rgb(227, 233, 200);
+  background-color: #128346;
+  padding: 50px;
+  margin: 20px; 
 }
+button{
+    font-size: 20px;
+    color: aliceblue;
+    background-color: rgb(199, 55, 42);
+   }
