@@ -5,6 +5,8 @@ h1 {
     color: #ffffff;
     
 }
+
+
 body {
     background-color: #82e3f9;
     background-image: url("../images/orangebackground.jpg");
@@ -13,4 +15,12 @@ body {
 }
 p{
     font-size: larger;
+    font-weight: bold;
 }
+button{
+    font-size: 20px;
+    color: rgb(110, 2, 2);
+    background-color: rgb(255, 253, 226);
+    padding: 10px;
+    
+   }

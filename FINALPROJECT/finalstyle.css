@@ -7,8 +7,8 @@
 }
 
 body{
-    background-image: url("../images/bluebackground.jpg");
-    <img src="../images/bluebackground.jpg">
+    background-color: #7cacf9;
+    
 }
 .app{
     background: rgb(247, 181, 240);
@@ -77,5 +77,5 @@ button{
     color: rgb(2, 60, 110);
     background-color: rgb(246, 245, 245);
     padding: 10px;
-    position: static;
+    
    }

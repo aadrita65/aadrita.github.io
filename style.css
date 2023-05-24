@@ -5,32 +5,28 @@ h1 {
     color: #4D4D80;
     
 }
+h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #5260d9;
+}
 body {
-    background-color: #e6e6ff;
+    background-color: #edb2e5;
+    border-width: 14px;
+    border-style: dotted;
+    border-color: rgba(80, 237, 23, 0.63);
 }
 
 main{
     
 
 }
-p {
-    display:flex;
-    background-color: yellow;
-    text-align: center;
-    font-style: Sans-serif;
-    font-size: 20px;
-    justify-content: space-around;
-    flex-direction: column;
-    width: 400px;
-    margin: 50px;
-}
 
-p {
-    display:flex;
-    background-color: #B8B8CC;
+button{
     text-align: center;
-    font-style: Sans-serif;
     font-size: 20px;
-    justify-content: space-around;
-    flex-direction: column;
-}
+    color: rgb(29, 34, 196);
+    background-color: rgb(92, 255, 80);
+   }
+   
